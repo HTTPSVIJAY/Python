@@ -1,0 +1,5 @@
+a = "3323"
+print(type(a))
+a = int(a)
+print(a+5)
+print(type(a))
